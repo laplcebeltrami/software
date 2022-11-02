@@ -1,4 +1,7 @@
 # Moo K. Chung's maintained software List 
 
+Only listing software that are actively used and maintained.
 
-dddd
+
+
+### Weighted spherial harmonic representation

@@ -14,5 +14,5 @@ The package performs heat kernel smoothing on surface mesh data including brain 
 https://pages.stat.wisc.edu/~mchung/softwares/hk/hk.html
 
 ## Cosine series reprentation
-The package perfoms the cosine series reprentation of functional data and curves including white matter fiber traccts
+The package perfoms the cosine series reprentation of functional data and curves including white matter fiber traccts.
 http://brainimaging.waisman.wisc.edu/%7Echung/tracts/

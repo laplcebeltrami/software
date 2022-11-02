@@ -4,5 +4,6 @@ Only listing software that are actively used and maintained.
 
 
 
-## Weighted spherial harmonic representation
-The packge peforms the weighted version of spherical harmonic represetnation of surface meshes including brain surfaces
+## Weighted-SPHARM
+The packge peforms the weighted version of spherical harmonic (SPHARM) represetnation of surface meshes including brain surfaces.
+https://pages.stat.wisc.edu/~mchung/softwares/weighted-SPHARM/weighted-SPHARM.html

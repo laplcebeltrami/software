@@ -19,3 +19,7 @@ https://pages.stat.wisc.edu/~mchung/softwares/hk/hk.html
 ## Cosine series reprentation
 The package perfoms the cosine series reprentation of functional data and curves including white matter fiber traccts.
 http://brainimaging.waisman.wisc.edu/%7Echung/tracts/
+
+## Exact topological inference
+The package performs the exact topolgical inference on Betti-0 and Betti-1 curves obtained in graph data structures. The method can be used to topologically quantify the brain network differences.
+https://pages.stat.wisc.edu/~mchung/TDA/

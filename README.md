@@ -9,5 +9,6 @@ The packge peforms the weighted version of spherical harmonic (SPHARM) represetn
 https://pages.stat.wisc.edu/~mchung/softwares/weighted-SPHARM/weighted-SPHARM.html
 
 
-##Cosine series reprentation
+## Cosine series reprentation
+The package perfoms the cosine series reprentation of functional data and curves including white matter fiber traccts
 http://brainimaging.waisman.wisc.edu/%7Echung/tracts/

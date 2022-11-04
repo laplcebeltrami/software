@@ -39,6 +39,10 @@ http://brainimaging.waisman.wisc.edu/%7Echung/barcodes/
 The package distribtues the Amygdala/hippocampus surface mesh data and mesh procesing pipeline.
 https://brainimaging.waisman.wisc.edu/%7Echung/midus/
 
+## Mandible surface modeling using the Laplace-Beltrami eigenfunctions. 
+The package performs the mandible shape analysis and performs the random field theory based statistical inference. 
+https://pages.stat.wisc.edu/~mchung/mandible/
+
 ## Epsilon-neighbor method for structural brain networks
 The package build dense structural brain networks without parcellatio.
 http://brainimaging.waisman.wisc.edu/%7Echung/graph/

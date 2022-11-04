@@ -25,6 +25,7 @@ The package performs the exact topolgical inference on Betti-0 and Betti-1 curve
 https://pages.stat.wisc.edu/~mchung/TDA/
 
 ## Morse filtration and persistence diagrams
+The package performs the Morse filtraions for 1D/2D functional data and produces corresponding persistent diagrams.
 http://brainimaging.waisman.wisc.edu/~chung/persistence/
 
 

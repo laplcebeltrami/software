@@ -3,6 +3,10 @@
 Only listing software that are actively used and maintained.
 
 
+## Transpostion test
+The packge performs the online version of the permutation test called the transpostion test. Various inference settings are illustrated.
+https://pages.stat.wisc.edu/~mchung/transpositions/
+
 
 ## Weighted-SPHARM
 The packge peforms the weighted version of spherical harmonic (SPHARM) represetnation of surface meshes including brain surfaces.

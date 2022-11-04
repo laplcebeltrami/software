@@ -23,3 +23,8 @@ http://brainimaging.waisman.wisc.edu/%7Echung/tracts/
 ## Exact topological inference
 The package performs the exact topolgical inference on Betti-0 and Betti-1 curves obtained in graph data structures. The method can be used to topologically quantify the brain network differences.
 https://pages.stat.wisc.edu/~mchung/TDA/
+
+## Morse filtration and persistence diagrams
+http://brainimaging.waisman.wisc.edu/~chung/persistence/
+
+

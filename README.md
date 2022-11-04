@@ -3,9 +3,18 @@
 Only listing software that are actively used and maintained.
 
 
+## Wasserstein distance based topological learning and inference
+The package computes the Wasserstein distance of persistent diagrms on graph filtations. Then show how to perform topological inference and unsupervised learning. 
+https://pages.stat.wisc.edu/~mchung/dynamicTDA/
+
+
 ## Transpostion test
 The packge performs the online version of the permutation test called the transpostion test. Various inference settings are illustrated.
 https://pages.stat.wisc.edu/~mchung/transpositions/
+
+## Exact topological inference
+The package performs the exact topolgical inference on Betti-0 and Betti-1 curves obtained in graph data structures. The method can be used to topologically quantify the brain network differences.
+https://pages.stat.wisc.edu/~mchung/TDA/
 
 ## Heat kernel smoothing
 The package performs heat kernel smoothing on surface mesh data including brain surfaces. The method will increase the singal-to-noise ratio and statistical power of surface data
@@ -18,10 +27,6 @@ https://pages.stat.wisc.edu/~mchung/softwares/weighted-SPHARM/weighted-SPHARM.ht
 ## Laplace-Beltrami eigenfunction expansion
 The package performs the finite element method (FEM) based estimation of the eigenfunctions of the Laplace-Beltrami (LB) operator on surface meshes. Then use it to perform Fourier expansion on brain surfaces.
 http://brainimaging.waisman.wisc.edu/%7Echung/lb/
-
-## Exact topological inference
-The package performs the exact topolgical inference on Betti-0 and Betti-1 curves obtained in graph data structures. The method can be used to topologically quantify the brain network differences.
-https://pages.stat.wisc.edu/~mchung/TDA/
 
 ## Amygdala surface modeling with SurfStat 
 The package extnds the functionality of SurfStat in modeling amygdala surface mesh data. It includes the diffusion based amygdala surface matching.

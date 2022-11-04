@@ -29,7 +29,7 @@ The package performs the Morse filtraions for 1D/2D functional data and produces
 http://brainimaging.waisman.wisc.edu/~chung/persistence/
 
 ## Betti plots of brain struactural covarite network data
-The package distributes the brain structural covarite network data published in Chung, M.K., Hanson, J.L., Ye, J., Davidson, R.J. Pollak, S.D. 2015 Persistent homology in sparse regression and its application to brain morphometry. IEEE Transactions on Medical Imaging, 34:1928-1939.
+The package distributes the brain structural covarite network data published in Chung, M.K., Hanson, J.L., Ye, J., Davidson, R.J. Pollak, S.D. 2015 Persistent homology in sparse regression and its application to brain morphometry. IEEE Transactions on Medical Imaging, 34:1928-1939. The package shows how to compute Betti-0 curve over graph filtrations.
 http://brainimaging.waisman.wisc.edu/%7Echung/barcodes/
 
 

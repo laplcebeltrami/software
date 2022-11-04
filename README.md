@@ -31,7 +31,7 @@ http://brainimaging.waisman.wisc.edu/%7Echung/tracts/
 The package distributes the brain structural covarite network data published in Chung, M.K., Hanson, J.L., Ye, J., Davidson, R.J. Pollak, S.D. 2015 Persistent homology in sparse regression and its application to brain morphometry. IEEE Transactions on Medical Imaging, 34:1928-1939. The package shows how to compute Betti-0 curve over graph filtrations.
 http://brainimaging.waisman.wisc.edu/%7Echung/barcodes/
 
-## MIDUS Amygdala/hippocampus surface data
+## MIDUS Amygdala and hippocampus surface data
 The package distribtues the Amygdala/hippocampus surface mesh data and mesh procesing pipeline.
 https://brainimaging.waisman.wisc.edu/%7Echung/midus/
 

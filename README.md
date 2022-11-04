@@ -23,6 +23,10 @@ http://brainimaging.waisman.wisc.edu/%7Echung/lb/
 The package performs the exact topolgical inference on Betti-0 and Betti-1 curves obtained in graph data structures. The method can be used to topologically quantify the brain network differences.
 https://pages.stat.wisc.edu/~mchung/TDA/
 
+## Amygdala surface modeling with SurfStat 
+The package extnds the functionality of SurfStat in modeling amygdala surface mesh data. It includes the diffusion based amygdala surface matching.
+https://pages.stat.wisc.edu/~mchung/research/amygdala/
+
 ## Cosine series reprentation
 The package perfoms the cosine series reprentation of functional data and curves including white matter fiber traccts.
 http://brainimaging.waisman.wisc.edu/%7Echung/tracts/
@@ -34,7 +38,6 @@ http://brainimaging.waisman.wisc.edu/%7Echung/barcodes/
 ## MIDUS Amygdala and hippocampus surface data
 The package distribtues the Amygdala/hippocampus surface mesh data and mesh procesing pipeline.
 https://brainimaging.waisman.wisc.edu/%7Echung/midus/
-
 
 ## Epsilon-neighbor method for structural brain networks
 The package build dense structural brain networks without parcellatio.
